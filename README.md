@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phasperhoven
 - 👀 I’m interested in bridge and cycling
-- 🌱 I’m currently learning Rust, Python, Strava API and oh, lots of other stuff :-)
+- 🌱 I’m currently learning Homeassistant, CSS, Python, Strava API and oh, lots of other stuff :-)
 - 💞️ I’m not looking to collaborate on anything really, just using this for my personal projects
 - 📫 How to reach me at peter (at) hasperhoven . net
 
