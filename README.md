@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @phasperhoven
 - 👀 I’m interested in bridge and cycling
-- 🌱 I’m currently learning Homeassistant, CSS, Python, Strava API and oh, lots of other stuff :-)
+- 🌱 I’m retired network professional playing around with homelab and home automation
 - 💞️ I’m not looking to collaborate on anything really, just using this for my personal projects
-- 📫 How to reach me at peter (at) hasperhoven . net
+- 📫 How to reach me: peter (at) hasperhoven . net
 
 <!---
 phasperhoven/phasperhoven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
